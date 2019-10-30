@@ -25,5 +25,5 @@ DESC
   s.source_files = 'Pod/Classes/**/*.swift'
   s.resources        = ["Pod/Classes/EPSignatureViewController.xib"]
 	
-  s.swift_version = "4.0"
+  s.swift_version = '4.0'
 end
